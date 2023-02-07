@@ -162,3 +162,9 @@
   <p align=center> The highest (inverse) correlation so far which suggests that the bonus marks were added to the students based on their difference between year work score and midterm score.
 
 ## Conclusion
+
+  * Most of the students who got high scores on the midterm also got a year work score less than their midterm score.
+  * Female students have *slightly better* scores than male students. 
+  * Adding bonus marks increased the *average year work score* by **5 marks (12.5%).**
+  * Although adding the bonus increased the average score of the class, **50%** of the students got less scores than what they should've got ideally.
+  * Students who got the most bonus marks are those who have *a year work score less than their midterm score*, and most of these students are the ones who already have higher midterm scores. Therefore, adding bonus affected **students with high midterm scores** in first place more than the rest of the class. As a result, affecting the average score of the class.

@@ -130,12 +130,12 @@
   #### Comparing To The Ideal Situation
   So far, we've covered the statistics of the class as whole. Now, let's compare those year work score to what should've happened ideally, which is each student having 10 marks (the rest of year work marks) added to their midterm scores to see how many students would be satisfied with score. In this ideal scenario **average year work score** is equal to **30.32** which is approximately **equal to** the average year work score after adding the bonus.    
     
-  First, comparing the ideal situation to the old year work scores (as shown in the figure below) reveals that **66.24%** of the students have less scores than if they were to be evaluated ideally.
+  First, comparing the **ideal situation** to **the old year work scores** (as shown in the figure below) reveals that **66.24%** of the students have less marks than if they were to be evaluated ideally.
     
   ![image](https://user-images.githubusercontent.com/77892920/217149059-3b3c0cb9-04bd-46ab-bde6-8b58dfe1424a.png)
   <p align=center> The graph shows the difference betweeen the ideal scores and year work scores before adding the bonus. The green/red colors indicates how satisfied or unsatisfied a student would be depending on the difference between the ideal score and the year work score.
     
-  Secondly, comparing the ideal scores to year work scores after adding bonus marks show us a *small* improvment since **50.22%** of the students would be unsatisfied with their scores.
+  Secondly, comparing **the ideal scores** to **year work scores after adding bonus marks** show us a *small* improvment since **50.22%** of the students would be unsatisfied with their scores.
     
   ![image](https://user-images.githubusercontent.com/77892920/217149597-3b886878-3188-4fcf-a28f-6537943d4506.png)
   
@@ -149,15 +149,16 @@
   **Visualizing added bonus with the old year work scores:**
     
   ![image](https://user-images.githubusercontent.com/77892920/217151575-2bd12897-14e9-47f1-90fb-4211fd55afdf.png)
-  
+  <p align=center> The graph shows a weak correlation between the added bonus and year work scores.
   
   **Visualizing added bonus with midterm scores:**
     
- ![image](https://user-images.githubusercontent.com/77892920/217156223-8cef265d-d949-4079-96e6-b279985a9020.png)
-
+  ![image](https://user-images.githubusercontent.com/77892920/217156223-8cef265d-d949-4079-96e6-b279985a9020.png)
+  <p align=center> A positive correlation shows up, meaning students who got high marks on their midterm are those who got more added bonus.
   
   **Visualizing added bonus with the difference between year work scores and midterm scores:**
   
   ![image](https://user-images.githubusercontent.com/77892920/217156349-4fb51cac-9bb3-4dea-921d-1a192c206190.png)
+  <p align=center> The highest (inverse) correlation so far which suggests that the bonus marks were added to the students based on their difference between year work score and midterm score.
 
 ## Conclusion

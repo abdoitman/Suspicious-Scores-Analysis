@@ -10,7 +10,7 @@
   - __[Year Work Scores](#year-work-scores)__
     + __[Midterm scores vs Year work scores](#midterm-scores-vs-year-work-scores)__
   - __[Difference Between Year Work Scores and Midterm Scores](#difference-between-year-work-scores-and-midterm-scores)__
-    + __[Difference Between Year Work Scores and Midterm Scores vs Midterm Scores](#difference-between-year-work-scores-and-midterm-scores-vs-midterm-scores)__
+    + __[Difference vs Midterm Scores](#difference-vs-midterm-scores)__
   - __[Added Bonus](#added-bonus)__
     + __[Total Added Marks](#total-added-marks)__
   - __[Final Year Work Scores](#final-year-work-scores)__
@@ -75,7 +75,7 @@
   #### Males vs Females
   ![image](https://user-images.githubusercontent.com/77892920/217066728-d8d522b3-dd84-4eb8-b755-58d9caa367df.png)
     
-  #### Difference Between Year Work Scores and Midterm Scores vs Midterm Scores
+  #### Difference vs Midterm Scores
   ![image](https://user-images.githubusercontent.com/77892920/217067470-211af4bb-f5c1-4b59-8389-bc519edb7043.png)
   We notice a higher inverse correlation (**-0.468**) between midterm scores & difference between year work scores and midterm scores. Which means people who got higher marks in midterms, are those who got less year work score than their midterm score.<br> A noticeable observation would be the student who got the highest midterm score (**27**) and has the lowest difference (**-7**) meaning he has a year work score of just **20** out of 40.
 

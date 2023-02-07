@@ -132,12 +132,12 @@
     
   First, comparing the **ideal situation** to **the old year work scores** (as shown in the figure below) reveals that **66.24%** of the students have less marks than if they were to be evaluated ideally.
     
-  ![image](https://user-images.githubusercontent.com/77892920/217149059-3b3c0cb9-04bd-46ab-bde6-8b58dfe1424a.png)
+  ![image](https://user-images.githubusercontent.com/77892920/217283131-ea909417-653c-4624-ab88-41c4fb187a69.png)
   <p align=center> The graph shows the difference betweeen the ideal scores and year work scores before adding the bonus. The green/red colors indicates how satisfied or unsatisfied a student would be depending on the difference between the ideal score and the year work score.
     
   Secondly, comparing **the ideal scores** to **year work scores after adding bonus marks** show us a *small* improvment since **50.22%** of the students would be unsatisfied with their scores.
     
-  ![image](https://user-images.githubusercontent.com/77892920/217149597-3b886878-3188-4fcf-a28f-6537943d4506.png)
+  ![image](https://user-images.githubusercontent.com/77892920/217283067-427e6889-7ed7-4c21-8d43-a9c1a8fb33ef.png)
   
   #### [Added Bonus Marks](#added-bonus-marks)
   It is clear that even though the average year work score increased by adding the bonus, around **50% of the students** got less scores that what they should've got ideally. This might have happened because *the bonus marks were not added equally to all the students*.

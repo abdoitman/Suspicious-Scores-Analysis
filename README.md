@@ -107,7 +107,7 @@
   After we took a deeper dive into midterm scores and the added bonus, now we're interested in answering the following questions:
   * Did the addd bonus fix the distribution of year work scores? if so, how? [here.](#final-year-work)
   * Compared to the ideal situation **(each student having their year work score = their midterm score + 10)**, how did the bonus marks benifit students? [here.](#comparing-to-the-ideal-situation)
-  * Given that they varied from one student to another, what criteria were the bonus marks based on?
+  * Given that they varied from one student to another, what criteria were the bonus marks based on? [here.](#added-bonus-marks)
     
   #### Final Year Work
   After adding bonus marks, the year work scores distribution becomes as follows:
@@ -128,15 +128,36 @@
   <p align=center>Although the lowest 2 sections and the highest section changed drastically, most students still got between 20 and 30 before and after adding the bonus.
   
   #### Comparing To The Ideal Situation
-  So far, we've covered the statistics of the class as whole. Now, let's compare those year work score to what should've happened ideally, which is each student having 10 marks (the rest of year work marks) added to their midterm scores to see how many students would be satisfied with score.<br>
+  So far, we've covered the statistics of the class as whole. Now, let's compare those year work score to what should've happened ideally, which is each student having 10 marks (the rest of year work marks) added to their midterm scores to see how many students would be satisfied with score. In this ideal scenario **average year work score** is equal to **30.32** which is approximately **equal to** the average year work score after adding the bonus.    
+    
   First, comparing the ideal situation to the old year work scores (as shown in the figure below) reveals that **66.24%** of the students have less scores than if they were to be evaluated ideally.
     
   ![image](https://user-images.githubusercontent.com/77892920/217149059-3b3c0cb9-04bd-46ab-bde6-8b58dfe1424a.png)
   <p align=center> The graph shows the difference betweeen the ideal scores and year work scores before adding the bonus. The green/red colors indicates how satisfied or unsatisfied a student would be depending on the difference between the ideal score and the year work score.
     
-  Secondly, comparing the ideal scores to year work scores after adding bonus marks show us a small improvment since **50.22%** of the students would be unsatisfied with their scores
+  Secondly, comparing the ideal scores to year work scores after adding bonus marks show us a *small* improvment since **50.22%** of the students would be unsatisfied with their scores.
     
   ![image](https://user-images.githubusercontent.com/77892920/217149597-3b886878-3188-4fcf-a28f-6537943d4506.png)
   
+  #### Added Bonus Marks
+  It is clear that even though the average year work score increased by adding the bonus, around **50% of the students** got less scores that what they should've got ideally. This might have happened because *the bonus marks were not added equally to all the students*.
+    
+  To comprehend the reasons on which the bonus marks were added, we should investigate the relationship between *bonus marks* & *year work scores*, *bonus marks* & *midterm scores* and *bonus marks* & *the difference between year work scores and midterm scores*.
+    
+  > Note: For all the visualizations below, the line represents **the average added bonus for each score**. The dot radius represents **how many students got that score & bonus.**
+    
+  **Visualizing added bonus with the old year work scores:**
+    
+  ![image](https://user-images.githubusercontent.com/77892920/217151575-2bd12897-14e9-47f1-90fb-4211fd55afdf.png)
+  
+  
+  **Visualizing added bonus with midterm scores:**
+    
+ ![image](https://user-images.githubusercontent.com/77892920/217156223-8cef265d-d949-4079-96e6-b279985a9020.png)
+
+  
+  **Visualizing added bonus with the difference between year work scores and midterm scores:**
+  
+  ![image](https://user-images.githubusercontent.com/77892920/217156349-4fb51cac-9bb3-4dea-921d-1a192c206190.png)
 
 ## Conclusion

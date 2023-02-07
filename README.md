@@ -12,6 +12,7 @@
   - __[Difference Between Year Work Scores and Midterm Scores](#difference-between-year-work-scores-and-midterm-scores)__
     + __[Difference Between Year Work Scores and Midterm Scores vs Midterm Scores](#difference-between-year-work-scores-and-midterm-scores-vs-midterm-scores)__
   - __[Added Bonus](#added-bonus)__
+    + __[Total Added Marks](#total-added-marks)__
   - __[Final Year Work Scores](#final-year-work-scores)__
 * __[Conclusion](#conclusion)__
 
@@ -80,6 +81,49 @@
 
 
 ### Added Bonus
+  Bonus marks were added differently for each student with the following frequency:
+  ![image](https://user-images.githubusercontent.com/77892920/217127880-b939c81e-6cd3-4b22-86fe-7060fd627650.png)
+  **One** bonus mark is the most frequently added bonus to the class. Only one student didn't have any bonus marks, also only 3 student got more than **10 bonus marks**.<br>
+  * Minimum: **0**
+  * Average added bonus: **5**
+  * Maximum: **10**  
+  
+  #### Males vs Females
+  ![image](https://user-images.githubusercontent.com/77892920/217128555-9b533ef6-b838-44c5-ac64-e3d8c90ca77c.png)
+  
+  #### Total Added Marks
+  The difference between the final year work scores (after adding bonus) and the midterm scores has the following frequency:
+  ![image](https://user-images.githubusercontent.com/77892920/217130215-ae0ba38e-c845-4994-bd51-63a1a138d377.png)
+  * Minimum: **1**
+  * Average added marks: **10.26**
+  * Maximum: **26** 
+    
+  #### Males vs Females
+  ![image](https://user-images.githubusercontent.com/77892920/217130577-90bfff9a-ded3-41bb-84d9-ebaf691d8301.png)
+  <p align=center>Female students got a higher average added marks than the male students.
+    
 ### Final Year Work Scores
+  After we took a deeper dive into midterm scores and the added bonus, now we're interested in answering the following questions:
+  * Did the addd bonus fix the distribution of year work scores? if so, how? [here.](#final-year-work)
+  * Compared to the ideal situation **(each student having their year work score = their midterm score + 10)**, how did the bonus marks benifit students? [here.](#comparing-to-the-ideal-situation)
+  * Given that they varied from one student to another, what criteria were the bonus marks based on?
+    
+  #### Final Year Work
+  After adding bonus marks, the year work scores distribution becomes as follows:
+  ![image](https://user-images.githubusercontent.com/77892920/217133404-9ff4f01b-a23e-4664-87a4-d0db8a5aab4b.png)
+  <p align=center> Adding bonus marks obviously increased the mean score of the class. Also the distribution now resembles the distribution of the midterms scores more.<p>
+  
+  * Minimum: **14**
+  * Average score: **30.58**
+  * Maximum: **40**
+  #### Males vs Females
+  ![image](https://user-images.githubusercontent.com/77892920/217137012-3c8defa8-d092-4335-af46-972a160dedbc.png)
+    
+  #### Effect of adding bonus to the class
+  To better understand how did the bonus affect the class, let's divide them into 4 sections based on their scores:
+  ![Screenshot_20230206_043109](https://user-images.githubusercontent.com/77892920/217137766-9b28e4db-8a14-4143-870f-4e9ee27f7539.png)<br>
+  <p align=center>Although the lowest 2 sections and the highest section changed drastically, most students still got between 20 and 30 before and after adding the bonus.
+  
+  #### Comparing To The Ideal Situation
   
 ## Conclusion

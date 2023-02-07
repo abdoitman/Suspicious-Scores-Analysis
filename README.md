@@ -82,6 +82,7 @@
 
 ### Added Bonus
   Bonus marks were added differently for each student with the following frequency:
+    
   ![image](https://user-images.githubusercontent.com/77892920/217127880-b939c81e-6cd3-4b22-86fe-7060fd627650.png)
   **One** bonus mark is the most frequently added bonus to the class. Only one student didn't have any bonus marks, also only 3 student got more than **10 bonus marks**.<br>
   * Minimum: **0**
@@ -110,6 +111,7 @@
     
   #### Final Year Work
   After adding bonus marks, the year work scores distribution becomes as follows:
+    
   ![image](https://user-images.githubusercontent.com/77892920/217133404-9ff4f01b-a23e-4664-87a4-d0db8a5aab4b.png)
   <p align=center> Adding bonus marks obviously increased the mean score of the class. Also the distribution now resembles the distribution of the midterms scores more.<p>
   
@@ -121,9 +123,20 @@
     
   #### Effect of adding bonus to the class
   To better understand how did the bonus affect the class, let's divide them into 4 sections based on their scores:
+  
   ![Screenshot_20230206_043109](https://user-images.githubusercontent.com/77892920/217137766-9b28e4db-8a14-4143-870f-4e9ee27f7539.png)<br>
   <p align=center>Although the lowest 2 sections and the highest section changed drastically, most students still got between 20 and 30 before and after adding the bonus.
   
   #### Comparing To The Ideal Situation
+  So far, we've covered the statistics of the class as whole. Now, let's compare those year work score to what should've happened ideally, which is each student having 10 marks (the rest of year work marks) added to their midterm scores to see how many students would be satisfied with score.<br>
+  First, comparing the ideal situation to the old year work scores (as shown in the figure below) reveals that **66.24%** of the students have less scores than if they were to be evaluated ideally.
+    
+  ![image](https://user-images.githubusercontent.com/77892920/217149059-3b3c0cb9-04bd-46ab-bde6-8b58dfe1424a.png)
+  <p align=center> The graph shows the difference betweeen the ideal scores and year work scores before adding the bonus. The green/red colors indicates how satisfied or unsatisfied a student would be depending on the difference between the ideal score and the year work score.
+    
+  Secondly, comparing the ideal scores to year work scores after adding bonus marks show us a small improvment since **50.22%** of the students would be unsatisfied with their scores
+    
+  ![image](https://user-images.githubusercontent.com/77892920/217149597-3b886878-3188-4fcf-a28f-6537943d4506.png)
   
+
 ## Conclusion

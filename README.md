@@ -109,7 +109,7 @@
   * Compared to the ideal situation **(each student having their year work score = their midterm score + 10)**, how did the bonus marks benifit students? [here.](#comparing-to-the-ideal-situation)
   * Given that they varied from one student to another, what criteria were the bonus marks based on? [here.](#added-bonus-marks)
     
-  #### Final Year Work
+  #### [Final Year Work](#final-year-work)
   After adding bonus marks, the year work scores distribution becomes as follows:
     
   ![image](https://user-images.githubusercontent.com/77892920/217133404-9ff4f01b-a23e-4664-87a4-d0db8a5aab4b.png)
@@ -127,7 +127,7 @@
   ![Screenshot_20230206_043109](https://user-images.githubusercontent.com/77892920/217137766-9b28e4db-8a14-4143-870f-4e9ee27f7539.png)<br>
   <p align=center>Although the lowest 2 sections and the highest section changed drastically, most students still got between 20 and 30 before and after adding the bonus.
   
-  #### Comparing To The Ideal Situation
+  #### [Comparing To The Ideal Situation](#comparing-to-the-ideal-situation)
   So far, we've covered the statistics of the class as whole. Now, let's compare those year work score to what should've happened ideally, which is each student having 10 marks (the rest of year work marks) added to their midterm scores to see how many students would be satisfied with score. In this ideal scenario **average year work score** is equal to **30.32** which is approximately **equal to** the average year work score after adding the bonus.    
     
   First, comparing the **ideal situation** to **the old year work scores** (as shown in the figure below) reveals that **66.24%** of the students have less marks than if they were to be evaluated ideally.
@@ -139,7 +139,7 @@
     
   ![image](https://user-images.githubusercontent.com/77892920/217149597-3b886878-3188-4fcf-a28f-6537943d4506.png)
   
-  #### Added Bonus Marks
+  #### [Added Bonus Marks](#added-bonus-marks)
   It is clear that even though the average year work score increased by adding the bonus, around **50% of the students** got less scores that what they should've got ideally. This might have happened because *the bonus marks were not added equally to all the students*.
     
   To comprehend the reasons on which the bonus marks were added, we should investigate the relationship between *bonus marks* & *year work scores*, *bonus marks* & *midterm scores* and *bonus marks* & *the difference between year work scores and midterm scores*.
@@ -162,7 +162,8 @@
   <p align=center> The highest (inverse) correlation so far which suggests that the bonus marks were added to the students based on their difference between year work score and midterm score.
 
 ## [Conclusion](#conclusion)
-
+  
+  * The distribution of year work scores before adding the bonus highly suggests that midterm scores were *scaled down* and other marks were factored in during the evaluation of final year work score.
   * Most of the students who got high scores on the midterm also got a year work score less than their midterm score.
   * Female students have *slightly better* scores than male students. 
   * Adding bonus marks increased the *average year work score* by **5 marks (12.5%).**

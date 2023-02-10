@@ -20,10 +20,10 @@
   To better understand where the data came from, the context must be explained. Year work scores have a total of 40 marks, 30 of which are the midterm score and the rest are evaluated based on student's work over the semester. In this case, midterm scores were revealed to the class (out of 30). After that, year work scores were revealed (out of 40) with some nonsensical results. Lastly, bonus marks were added to the class to compensate for the error.
   
 ## [Objective](#objective)
-  The objective of this project is to get an idea of what might have hapened during the evaluation of the total year work score, how it affected the class and figuring out if the added bonus actually made up for the error.
+  The objective of this project is to get an idea of what might have happened during the evaluation of the total year work score, how it affected the class and figuring out if the added bonus actually made up for the error.
   
 ## [About The Dataset](#about-the-dataset)
-  The dataset was originally collected from real college students data in text form, later it was cleaned and transformed into **3 excel workbooks** ,with **231** enteries, which are:
+  The dataset was originally collected from real college students data in text form, later it was cleaned and transformed into **3 excel workbooks** ,with **231** entries, which are:
   1. [Students List](../main/Students_list.xlsx) which contains the **ID**, **Name** and **Gender** of each student in the class.
   2. [Midterm Scores](../main/Midterm_scores.xlsx) which contains the following:
       * `ID`: ID of each student in the class.
@@ -105,7 +105,7 @@
     
 ### [Final Year Work Scores](#final-year-work-scores)
   After we took a deeper dive into midterm scores and the added bonus, now we're interested in answering the following questions:
-  * Did the addd bonus fix the distribution of year work scores? if so, how? [here.](#final-year-work)
+  * Did the added bonus fix the distribution of year work scores? if so, how? [here.](#final-year-work)
   * Compared to the ideal situation **(each student having their year work score = their midterm score + 10)**, how did the bonus marks benifit students? [here.](#comparing-to-the-ideal-situation)
   * Given that they varied from one student to another, what criteria were the bonus marks based on? [here.](#added-bonus-marks)
     
